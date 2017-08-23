@@ -1,4 +1,3 @@
-require("./index.html");
 // Creating a giant hangmanGame object that will house all of our logic and variables.
 var hangmanGame = {
 
